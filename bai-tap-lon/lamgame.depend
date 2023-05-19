@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1682052526 source:c:\users\admin\pictures\lamgame\baseobject.cpp
+	"BaseObject.h"
+	"Commonfunction.h"
+
+1682158224 c:\users\admin\pictures\lamgame\baseobject.h
+	"Commonfunction.h"
+
+1682474233 c:\users\admin\pictures\lamgame\commonfunction.h
+	<iostream>
+	<SDL_mixer.h>
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	<vector>
+	<random>
+	<SDL_mixer.h>
+
+1682261405 source:c:\users\admin\pictures\lamgame\commonfunction.cpp
+	"Commonfunction.h"
+
+1682498648 source:c:\users\admin\pictures\lamgame\main.cpp
+	"Commonfunction.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"ThreatObjects.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+
+1684504313 source:c:\users\admin\pictures\lamgame\mainobject.cpp
+	"MainObject.h"
+
+1682348090 c:\users\admin\pictures\lamgame\mainobject.h
+	<vector>
+	"Bullet.h"
+	"Commonfunction.h"
+	"BaseObject.h"
+
+1682498915 source:c:\users\admin\pictures\lamgame\bullet.cpp
+	"Bullet.h"
+
+1682497357 c:\users\admin\pictures\lamgame\bullet.h
+	"BaseObject.h"
+	"Commonfunction.h"
+
+1682178928 c:\users\admin\pictures\lamgame\threatobjects.h
+	"Commonfunction.h"
+	"BaseObject.h"
+	"Bullet.h"
+	<vector>
+
+1684504370 source:c:\users\admin\pictures\lamgame\threatobjects.cpp
+	"ThreatObjects.h"
+
+1682264660 source:c:\users\admin\pictures\lamgame\explosionobject.cpp
+	"ExplosionObject.h"
+
+1682264628 c:\users\admin\pictures\lamgame\explosionobject.h
+	"BaseObject.h"
+	"Commonfunction.h"
+
+1682354693 c:\users\admin\pictures\lamgame\textobject.h
+	"BaseObject.h"
+	<string>
+	<SDL_ttf.h>
+
+1682354800 source:c:\users\admin\pictures\lamgame\textobject.cpp
+	"TextObject.h"
+
